@@ -18,5 +18,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+  
+  <h2 style="font-size:50px;">✏️ My Tools ✏️</h2>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/iTerm2-181717?style=flat&logo=iTerm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white" />
 </div>
 
